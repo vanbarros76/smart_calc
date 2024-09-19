@@ -1,0 +1,15 @@
+[package]
+name = "smart_calc"
+version = "0.1.0"
+edition = "2021"
+description = "Simple lib for learn proposal"
+authors = ["Vanessa Barros <vanessabarros.tech@gmail.com>"]
+repository = "https://github.com/vanbarros76/smart_calc.git"
+readme = "README.md"
+license = "MIT"
+keywords = [
+    "learn"
+]
+
+[dependencies]
+
